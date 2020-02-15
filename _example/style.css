@@ -1,0 +1,8 @@
+tr.row-0 { text-align: center; }
+
+td.col-0, td.col-1 { text-align: center; width: 30px; }
+
+tr.A { background-color: lightpink; }
+tr.B { background-color: peachpuff; }
+tr.C { background-color: lightgreen; }
+tr.E { background-color: khaki; }
